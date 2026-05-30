@@ -69,14 +69,6 @@
     <div class="tick">✔</div>
     <h1>Access Granted</h1>
     <p>You are verified as 18+</p>
-    <button onclick="restart()">Verify Again</button>
-  </div>
-
-  <script>
-    // Simple restart function
-    function restart() {
-      if (confirm("Restart verification?")) {
-        window.location.reload();
       }
     }
   </script>
